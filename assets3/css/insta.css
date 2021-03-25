@@ -1,0 +1,15 @@
+img {
+  vertical-align: middle;
+  border-style: none;
+  width: 100%;
+  background-size: cover;
+  height: 100vh;
+}
+
+img {
+  border-style: none;
+  width: 300px;
+  background-size: cover;
+  height: 300px;
+}
+

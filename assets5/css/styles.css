@@ -1,0 +1,23 @@
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 12px;
+  padding-bottom: 0px;
+}
+
+#article {
+  position: relative;
+  text-align: center;
+}
+
+.textarea {
+  position: relative;
+}
+
+footer {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  top: 90px;
+}
+

@@ -1,0 +1,41 @@
+img {
+  vertical-align: middle;
+  border-style: none;
+  width: 100%;
+  background-size: cover;
+  height: 100vh;
+}
+
+img {
+  border-style: none;
+  width: 300px;
+  background-size: cover;
+  height: 300px;
+}
+
+footer {
+  position: relative;
+  top: 400px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer img {
+  width: 40px;
+  height: 40px;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+.text-box button:hover {
+  background-color: #0d1b2b;
+  transition: 0.5s;
+}
+

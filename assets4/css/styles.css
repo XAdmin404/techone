@@ -1,0 +1,32 @@
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 12px;
+  padding-bottom: 0px;
+}
+
+#article {
+  position: relative;
+  text-align: center;
+}
+
+.img hr {
+  position: relative;
+  top: 40px;
+}
+
+.story1 {
+  position: relative;
+  top: 20px;
+}
+
+.img2 img {
+  width: 690px;
+}
+
+footer {
+  position: relative;
+  top: 40px;
+  padding: 10px;
+}
+

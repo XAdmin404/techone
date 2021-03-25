@@ -1,0 +1,33 @@
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 12px;
+  padding-bottom: 0px;
+}
+
+.card {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  top: 120px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.card strong {
+  position: relative;
+  top: 30px;
+}
+
+.card img {
+  width: 30px;
+  height: 30px;
+}
+
+.card a:hover {
+  color: #fff;
+}
+
